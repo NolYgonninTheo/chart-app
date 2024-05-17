@@ -1,6 +1,4 @@
-# Helm Charts Repository
-
-Bienvenue dans mon dépôt de charts Helm. Ce dépôt contient divers charts pour faciliter le déploiement de vos applications sur Kubernetes.
+# Helm Charts of sample application by EPITECH
 
 ## Ajouter ce dépôt
 
