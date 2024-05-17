@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  chart-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-17T20:29:43.554567+02:00"
+    dependencies:
+    - import-values:
+      - child: image
+        parent: mysql_image
+      name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.4.5
+    description: A Helm chart for Kubernetes
+    digest: 50a3a790429b8ad1746beb83fd12d7edab0cbb888fb01ccad516d13e531fac68
+    name: chart-app
+    type: application
+    urls:
+    - https://nolygonnintheo.github.io/chart-app/chart-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-17T20:29:43.543401+02:00"
