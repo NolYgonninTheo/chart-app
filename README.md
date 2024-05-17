@@ -7,7 +7,7 @@ Bienvenue dans mon dépôt de charts Helm. Ce dépôt contient divers charts pou
 Pour ajouter ce dépôt à Helm, utilisez la commande suivante :
 
 ```sh
-helm repo add my-helm-charts https://username.github.io/repo-name
+helm repo add my-helm-charts https://nolygonnintheo.github.io/chart-app/
 ```
 
 Ensuite, mettez à jour votre dépôt Helm local pour récupérer les derniers charts :
