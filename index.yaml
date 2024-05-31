@@ -16,6 +16,6 @@ entries:
     name: chart-app
     type: application
     urls:
-    - https://nolygonnintheo.github.io/chart-app/chart-app-0.1.0.tgz
-    version: 0.1.0
+    - https://nolygonnintheo.github.io/chart-app/chart-app-0.2.0.tgz
+    version: 0.2.0
 generated: "2024-05-17T20:29:43.543401+02:00"
